@@ -1,0 +1,10 @@
+runtime: java11
+
+instance_class: F1
+
+env_variables:
+  DATASOURCE_HOST: 0.0.0.0
+  DATASOURCE_PORT: 5432
+  DATASOURCE_DATABASE: database
+  DATASOURCE_USERNAME: user
+  DATASOURCE_PASSWORD: password
